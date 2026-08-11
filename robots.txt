@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-oox3hw.salamcuanwin.cfd/sitemap.xml
